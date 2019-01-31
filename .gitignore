@@ -1,0 +1,11 @@
+# no trailing slash esy is creating a symlink
+node_modules
+
+# esy
+_build/
+_esy/
+
+# reason
+*.install
+.merlin
+
